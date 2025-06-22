@@ -2,7 +2,8 @@
 
 A simple Node.js utility to download and join Transport Stream (TS) video files from an M3U8 playlist. This tool downloads individual TS segments and combines them into a single file using FFmpeg.
 
-> [!WARNING] This project is intended for educational purposes only. Ensure you have the right to download and use the content from the M3U8 playlist.
+> [!WARNING]
+> This project is intended for educational purposes only. Ensure you have the right to download and use the content from the M3U8 playlist.
 
 ## 🚀 Features
 
